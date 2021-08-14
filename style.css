@@ -1,0 +1,21 @@
+body {
+	background-color: #efefef;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navigation{color: black;}
+.first_text{
+	background-color: white;
+    padding: 15px;
+    margin-bottom: 40px;
+	margin-top: 25px;
+    border-radius: 20px;
+	}
+.first_p{
+	text-align: center;
+}
+.first_img{
+	margin: auto;
+}
+.rotate-right{
+	transform: rotate(40deg);
+}
